@@ -46,7 +46,7 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect / Follow on
 
 -   📧 Email:
   **[omkarsawant4102004@gmail.com]**
@@ -61,5 +61,5 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 I love debugging complex problems—and sometimes I name my projects before I start them!
 
 ---
-
+> ## 👋 If You Like OUR REPO. please star it...... & Don't Forgot to follow me....🫡😁🤗
 _Thanks for visiting my profile! Let's build something cool together 🚀_
