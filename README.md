@@ -6,13 +6,13 @@
 
 ### 🚀 About Me
 
-I'm currently a student at **Finolex Academy of Management and Technology (FAMT), Ratnagiri**, passionate about building intelligent, efficient, and impactful software solutions.
+I'm currently a student at **Finolex Academy of Management and Technology (FAMT), Ratnagiri**, passionate about building intelligent, efficient, and day-2-day problem solutions.
 
 - 💻 Skilled in **C** and **Python**
-- 🧠 Interested in **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **IoT**
+- 🧠 Interested in **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**.
 - 🛠️ I love building tools that solve real-world problems
 - 💬 I enjoy explaining concepts in simple ways and collaborating on tech projects
-- 🌱 Currently learning **Full Stack Development** and exploring **LLM-powered applications**
+- 🌱 Currently exploring **LLM-powered applications**
 - 🧩 Curious about how things work under the hood—especially compilers and operating systems
 
 ---
@@ -48,8 +48,11 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 
 ### 📫 Let's Connect
 
-- 📧 Email: **[omkarsawant4102004@gmail.com]**
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/omkar-sawant-953b47281)
+-   📧 Email:
+  **[omkarsawant4102004@gmail.com]**
+  
+- 💼 LinkedIn:   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/omkar-sawant-953b47281/)
+
 ---
 
 ### 💡 Fun Fact
