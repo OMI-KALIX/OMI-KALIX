@@ -61,5 +61,5 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 I love debugging complex problems—and sometimes I name my projects before I start them!
 
 ---
-> ## 👋 If You Like OUR REPO. please star it...... & Don't Forgot to follow me....🫡😁🤗
+> ## 👋 If You Like OUR REPO. please STAR it...... & Don't Forgot to follow me....🫡😁🤗
 _Thanks for visiting my profile! Let's build something cool together 🚀_
