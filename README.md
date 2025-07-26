@@ -51,7 +51,8 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 -   📧 Email:
   **[omkarsawant4102004@gmail.com]**
   
-- 💼 LinkedIn:   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/omkar-sawant-953b47281/)
+- 💼 LinkedIn:
+  **[(www.linkedin.com/in/omkar-sawant-953b47281)]**
 
 ---
 
