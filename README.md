@@ -27,6 +27,8 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)  
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas)  
 ![SQLite3](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+
 
 **Web & UI**  
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit)  
