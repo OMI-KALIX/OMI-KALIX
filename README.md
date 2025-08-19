@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.html" alt="Omkar Sawant - Cyberpunk Banner" />
+  <img src="banner.svg" alt="Omkar Sawant - Cyberpunk Banner" />
 </p>
 
 <div align="center">
