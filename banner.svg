@@ -136,14 +136,10 @@
         fill: none;
         opacity: 0.6;
       }
-      
-      .backdrop {
-        fill: url(#bgGrad);
-      }
     </style>
   </defs>
   
-  <!-- Professional gradient background -->
+  <!-- Background Gradient -->
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0a1428"/>
@@ -204,16 +200,18 @@
     </g>
   </g>
   
-  <!-- Main text with professional timing -->
-  <text class="letter" x="480" y="60" style="animation-delay: 0.2s;">O</text>
-  <text class="letter" x="520" y="60" style="animation-delay: 0.35s;">M</text>
-  <text class="letter" x="560" y="60" style="animation-delay: 0.5s;">I</text>
-  <text class="letter" x="600" y="60" style="animation-delay: 0.65s;">-</text>
-  <text class="letter" x="640" y="60" style="animation-delay: 0.8s;">K</text>
-  <text class="letter" x="680" y="60" style="animation-delay: 0.95s;">A</text>
-  <text class="letter" x="720" y="60" style="animation-delay: 1.1s;">L</text>
-  <text class="letter" x="760" y="60" style="animation-delay: 1.25s;">I</text>
-  <text class="letter" x="800" y="60" style="animation-delay: 1.4s;">X</text>
+  <!-- Name perfectly centered with per-letter animation -->
+  <g text-anchor="middle" dominant-baseline="middle">
+    <text class="letter" x="480" y="60" style="animation-delay: 0.2s;">O</text>
+    <text class="letter" x="520" y="60" style="animation-delay: 0.35s;">M</text>
+    <text class="letter" x="560" y="60" style="animation-delay: 0.5s;">I</text>
+    <text class="letter" x="600" y="60" style="animation-delay: 0.65s;">-</text>
+    <text class="letter" x="640" y="60" style="animation-delay: 0.8s;">K</text>
+    <text class="letter" x="680" y="60" style="animation-delay: 0.95s;">A</text>
+    <text class="letter" x="720" y="60" style="animation-delay: 1.1s;">L</text>
+    <text class="letter" x="760" y="60" style="animation-delay: 1.25s;">I</text>
+    <text class="letter" x="800" y="60" style="animation-delay: 1.4s;">X</text>
+  </g>
   
   <!-- Professional corner indicators -->
   <g opacity="0.6">
