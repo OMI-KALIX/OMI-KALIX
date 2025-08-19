@@ -26,7 +26,7 @@
 
 I'm currently a student at **Finolex Academy of Management and Technology (FAMT), Ratnagiri**, passionate about building intelligent, efficient, and day-to-day problem solutions.
 
-- 💻 Skilled in **C** and **Python**
+- 💻 Skilled in **C** | **C++** and **Python**
 - 🧠 Interested in **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**
 - 🛠️ I love building tools that solve real-world problems
 - 💬 I enjoy explaining concepts in simple ways and collaborating on tech projects
