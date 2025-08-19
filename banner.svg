@@ -292,7 +292,7 @@
     </a>
     
     <!-- GitHub Link -->
-    <a href="https://github.com/your-username" target="_blank">
+    <a href="https://github.com/OMI-KALIX" target="_blank">
       <g class="contact-item github" transform="translate(1020, 85)">
         <rect class="contact-bg" width="90" height="25" rx="12" fill="rgba(240, 246, 252, 0.2)" stroke="#f0f6fc" stroke-width="1" opacity="0"/>
         <text class="contact-icon" x="15" y="16" fill="#f0f6fc" font-size="12" opacity="0">⚡</text>
