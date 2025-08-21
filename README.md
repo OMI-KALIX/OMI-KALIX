@@ -13,9 +13,9 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OMI-KALIX&style=for-the-badge&color=00F7FF" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=OMI-KALIX&style=for-the-badge&color=000000" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/OMI-KALIX?label=Followers&style=for-the-badge&color=FF00FF" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/OMI-KALIX?label=Stars&style=for-the-badge&color=00F7FF" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/OMI-KALIX?label=Stars&style=for-the-badge&color=000000" alt="GitHub Stars" />
 </div>
 
 ---
