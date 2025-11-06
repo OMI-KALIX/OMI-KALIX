@@ -60,9 +60,47 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 
 </div>
 
+##  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Open to Opportunities
+
+<div align="center">
+
+<div style="
+  display: inline-block;
+  text-align: center;
+  background: #0d1117;
+  border: 1px solid #30363d;
+  border-radius: 15px;
+  padding: 25px 40px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.25);
+  transition: transform 0.2s ease-in-out;
+">
+
+  <p align="left" style="color:#c9d1d9; font-size:15px; line-height:1.7; margin: 15px 0 10px;">
+    🚀 <b>Internship Positions</b> in <b>AI / ML</b><br>
+    🧠 <b>Open-Source Project Collaborations</b><br>
+    🔬 <b>Research Opportunities</b><br>
+    💡 <b>Innovative Startup Projects</b><br>
+    🎯 <b>Mentorship in Advanced Topics</b>
+  </p>
+
+ <p align="center">
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="divider">
+
+</p>
+
+  <p style="color:#8b949e;font-style:italic;font-size:15px;">
+    💬 Let’s connect if you’re working on something exciting!
+  </p>
+
+</div>
+
+</div>
+
+
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Featured Projects
+## <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60" alt="Project Launch Animation"> Featured Projects
 
 <div align="center">
 
@@ -103,6 +141,9 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 </p>
 
 </div>
+
+---
+
 
 ---
 
