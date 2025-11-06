@@ -145,8 +145,6 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 ---
 
 
----
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> GitHub Achievements
 
 <div align="center">
