@@ -135,7 +135,7 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 - 🔍 **GeoAlert** – Location-based safety system  
 - 🎥 **Video Downloader** – A GUI-based YouTube/media downloader  
 - 🤖 **CollegeBot** – Smart assistant for campus FAQs powered by LLMs  
-- 🤖 **Maths Teacher AI** – Turning maths questions into structured, shareable study material using automation
+- 🤖 **AI Maths Teacher** – Automated step-by-step maths solver powered by AI & n8n
 > <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="20"> Check them out in the pinned repositories 👇
 
 ---
