@@ -31,7 +31,7 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 - 🛠️ I love building tools that solve real-world problems
 - 💬 I enjoy explaining concepts in simple ways and collaborating on tech projects
 - 🌱 exploring **LLM-powered applications**
-- 🧩  No-Code Tools on Prebuilt Stack
+- 🧩  No-Code Tools on Prebuilt Stack on ***n8n***
 
 ---
 
