@@ -48,6 +48,9 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
   <img src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Labs-34A853?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ### **Web & UI**
@@ -116,6 +119,12 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 <p align="center">
   <a href="https://github.com/OMI-KALIX/college_bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OMI-KALIX&repo=college_bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00F7FF" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/OMI-KALIX/n8n-ai-maths-teacher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OMI-KALIX&repo=n8n-ai-maths-teacher&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00F7FF" />
   </a>
 </p>
 
