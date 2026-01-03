@@ -6,7 +6,11 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Omkar Sawant
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+Aspiring+Software+Engineer;%F0%9F%94%AC+AI+%26+ML+Enthusiast;%F0%9F%8C%90+Cybersecurity+Explorer" alt="Typing SVG" />
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=720&lines=🎓+n8n+Automation+Workflows;🤖+AI+%26+ML+Models+%7C+Training+%26+Learning;🌐+Hands-on+with+No-Code+%26+Low-Code+Tools" 
+  alt="Typing SVG"
+/>
+
 
 </div>
 
