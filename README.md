@@ -87,7 +87,6 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
     🧠 <b>Open-Source Project Collaborations</b><br>
     🔬 <b>Research Opportunities</b><br>
     💡 <b>Innovative Startup Projects</b><br>
-    🎯 <b>Mentorship in Advanced Topics</b>
   </p>
 
  <p align="center">
