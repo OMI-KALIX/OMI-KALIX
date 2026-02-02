@@ -42,6 +42,11 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 ## ⭐ Top Repositories
 
 <!-- TOP_REPOS_START -->
+1. **MindFlow-Visual-Tutor** ⭐ 2
+2. **Skill-Bridge-AI-Resume-Analysis-Learning-Guidance-Bot** ⭐ 1
+3. **ThinkLessX-Telegram-AI-Decision-Bot** ⭐ 1
+4. **Multi-Agent-AI-Workflow-for-Content-Creation** ⭐ 3
+5. **Zero-Touch-AI-Invoice-Processing** ⭐ 1
 <!-- TOP_REPOS_END -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> Tech Stack
