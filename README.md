@@ -39,6 +39,11 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 
 ---
 
+## ⭐ Top Repositories
+
+<!-- TOP_REPOS_START -->
+<!-- TOP_REPOS_END -->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> Tech Stack
 
 <div align="center">
