@@ -1,0 +1,23 @@
+name: Auto Update Top Repositories
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate top repos
+        uses: jv2210/profile-readme-generator@v1
+        with:
+          username: OMI-KALIX
+          max_repos: 5
+          sort_by: stars
+          commit_message: "Auto-update top repositories"
