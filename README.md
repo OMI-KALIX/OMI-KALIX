@@ -42,20 +42,20 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 ## ⭐ Top Repositories
 
 <!-- TOP_REPOS_START -->
-1. **ThinkLessX-Telegram-AI-Decision-Bot** ⭐ 1
+1. **Zero-Touch-AI-Invoice-Processing** ⭐ 1
+   turning a manual, error-prone billing workflow into a fully automated pipeline
+
+2. **Multi-Agent-AI-Workflow-for-Content-Creation** ⭐ 3
+   A fully automated multi-agent AI system that creates LinkedIn content end to end. Specialized AI agents handle research, writing, formatting, and image creation—reducing hours of work to minutes while maintaining quality and consistency.
+
+3. **ThinkLessX-Telegram-AI-Decision-Bot** ⭐ 1
    ThinkLessX is an intent-aware Telegram AI bot designed to eliminate decision debt. Instead of overwhelming users with summaries or suggestions, it converts incoming messages, documents, and media into clear next actions.
 
-2. **Skill-Bridge-AI-Resume-Analysis-Learning-Guidance-Bot** ⭐ 1
+4. **Skill-Bridge-AI-Resume-Analysis-Learning-Guidance-Bot** ⭐ 1
    SkillBridge is an AI-powered resume analysis and learning guidance bot that helps job seekers understand why their resume fails ATS screening and what to fix or learn next, without guessing.  It focuses on clarity over hype: What you have → What’s missing → What to improve → What to learn next
 
-3. **MindFlow-Visual-Tutor** ⭐ 2
+5. **MindFlow-Visual-Tutor** ⭐ 2
    MindFlow Visual Tutor is an AI-powered visual learning and Q&A bot that helps learners understand complex YouTube lectures by converting them into structured learning flows, visual diagrams, and interactive explanations.
-
-4. **jenkinsfile** ⭐ 0
-   No description
-
-5. **jenkinsfile1** ⭐ 0
-   No description
 <!-- TOP_REPOS_END -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> Tech Stack
