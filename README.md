@@ -48,7 +48,7 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 2. **ThinkLessX-Telegram-AI-Decision-Bot** ⭐ 1
    ThinkLessX is an intent-aware Telegram AI bot designed to eliminate decision debt. Instead of overwhelming users with summaries or suggestions, it converts incoming messages, documents, and media into clear next actions.
 
-3. **Skill-Bridge-AI-Resume-Analysis-Learning-Guidance-Bot** ⭐ 1
+3. **Skill-Bridge-AI-Resume-Analysis-Learning-Guidance-Bot** ⭐ 2
    SkillBridge is an AI-powered resume analysis and learning guidance bot that helps job seekers understand why their resume fails ATS screening and what to fix or learn next, without guessing.  It focuses on clarity over hype: What you have → What’s missing → What to improve → What to learn next
 
 4. **MindFlow-Visual-Tutor** ⭐ 2
