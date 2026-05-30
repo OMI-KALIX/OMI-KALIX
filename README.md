@@ -132,29 +132,23 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 
 <div align="center">
 
-<p align="center">
-  <a href="https://github.com/OMI-KALIX/GEO-ALERT-APP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OMI-KALIX&repo=GEO-ALERT-APP&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00F7FF" />
-  </a>
-  <a href="https://github.com/OMI-KALIX/YT-DOWNLOADER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OMI-KALIX&repo=YT-DOWNLOADER&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00F7FF" />
-  </a>
-</p>
+<a href="https://github.com/OMI-KALIX/GEO-ALERT-APP">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=OMI-KALIX&repo=GEO-ALERT-APP&theme=tokyonight" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/OMI-KALIX/college_bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OMI-KALIX&repo=college_bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00F7FF" />
-  </a>
-</p>
+<a href="https://github.com/OMI-KALIX/YT-DOWNLOADER">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=OMI-KALIX&repo=YT-DOWNLOADER&theme=tokyonight" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/OMI-KALIX/n8n-ai-maths-teacher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OMI-KALIX&repo=n8n-ai-maths-teacher&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00F7FF" />
-  </a>
-</p>
+<a href="https://github.com/OMI-KALIX/college_bot">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=OMI-KALIX&repo=college_bot&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/OMI-KALIX/n8n-ai-maths-teacher">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=OMI-KALIX&repo=n8n-ai-maths-teacher&theme=tokyonight" />
+</a>
 
 </div>
-
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Project Highlights
 
 - 🔍 **GeoAlert** – Location-based safety system  
@@ -183,9 +177,13 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OMI-KALIX&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=OMI-KALIX&show_icons=true&theme=tokyonight&count_private=true" />
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMI-KALIX&layout=compact&theme=tokyonight" />
+
+</div>
 
 <p align="center">
   <picture>
@@ -211,6 +209,16 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+</div>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OMI-KALIX&theme=tokyonight" />
+
+</div>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=OMI-KALIX&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
