@@ -67,6 +67,7 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 ### Databases
 <p>
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### Automation
