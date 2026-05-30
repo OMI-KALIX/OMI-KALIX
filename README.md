@@ -106,14 +106,8 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 
 ## <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50" alt="Projects"> Featured Projects
 
-<div align="center">
-
 <a href="https://github.com/OMI-KALIX/GEO-ALERT-APP">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=OMI-KALIX&repo=GEO-ALERT-APP&theme=tokyonight&hide_border=true" />
-</a>
-&nbsp;
-<a href="https://github.com/OMI-KALIX/YT-DOWNLOADER">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=OMI-KALIX&repo=YT-DOWNLOADER&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://gh-card.dev/repos/OMI-KALIX/GEO-ALERT-APP.svg?fullname=" />
 </a>
 
 <br/><br/>
