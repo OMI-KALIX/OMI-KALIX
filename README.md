@@ -194,7 +194,16 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMI-KALIX&la
 </p>
 
 </div>
+<div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OMI-KALIX&theme=tokyonight" />
+
+</div>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=OMI-KALIX&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
 ---
 
 ## <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="35"> Contact Me
@@ -209,16 +218,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMI-KALIX&la
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
-</div>
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OMI-KALIX&theme=tokyonight" />
-
-</div>
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=OMI-KALIX&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
