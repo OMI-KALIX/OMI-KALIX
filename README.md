@@ -45,7 +45,7 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python&theme=dark" />
 
 ### AI / ML & Data
 <p>
