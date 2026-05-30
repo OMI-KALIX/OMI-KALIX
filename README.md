@@ -73,6 +73,7 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 ### Automation
 <p>
   <img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Opal-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### Web & UI
