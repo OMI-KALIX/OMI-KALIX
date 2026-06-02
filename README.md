@@ -71,6 +71,12 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 
 <br/><br/>
 
+### Deployment & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+<br/><br/>
+
 **Databases**
 
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
