@@ -105,7 +105,64 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 <!-- TOP_REPOS_START -->
 ## ⭐ Top Repositories
 
-Loading...
+<div align="center">
+
+<table>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🥇 [Zero-Touch-AI-Invoice-Processing](https://github.com/OMI-KALIX/Zero-Touch-AI-Invoice-Processing)
+⭐ 3
+
+turning a manual, error-prone billing workflow into a fully automated pipeline
+
+</td>
+<td width="50%" valign="top">
+
+### 🥈 [Multi-Agent-AI-Workflow-for-Content-Creation](https://github.com/OMI-KALIX/Multi-Agent-AI-Workflow-for-Content-Creation)
+⭐ 3
+
+A fully automated multi-agent AI system that creates LinkedIn content end to end. Specialized AI agents handle research, writing, formatting, and image creation—reducing hours of work to minutes while maintaining quality and consistency.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🥉 [OMI-KALIX](https://github.com/OMI-KALIX/OMI-KALIX)
+⭐ 2
+
+—
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [n8n-rag-automation-ollama-pinecone](https://github.com/OMI-KALIX/n8n-rag-automation-ollama-pinecone)
+⭐ 2
+
+End-to-end RAG automation built with n8n, Ollama (local LLMs), and Pinecone.  Automatically ingests documents, generates embeddings, stores vectors, and enables context-aware AI chat.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [Skill-Bridge-AI-Resume-Analysis-Learning-Guidance-Bot](https://github.com/OMI-KALIX/Skill-Bridge-AI-Resume-Analysis-Learning-Guidance-Bot)
+⭐ 2
+
+SkillBridge is an AI-powered resume analysis and learning guidance bot that helps job seekers understand why their resume fails ATS screening and what to fix or learn next, without guessing.  It focuses on clarity over hype: What you have → What’s missing → What to improve → What to learn next
+
+</td>
+<td></td>
+</tr>
+
+</table>
+
+</div>
+
 <!-- TOP_REPOS_END -->
 
 
