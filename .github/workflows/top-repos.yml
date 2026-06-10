@@ -19,79 +19,65 @@ jobs:
       - name: Update README with top repositories
         uses: actions/github-script@v7
         with:
-          script: |
-            const fs = require("fs");
+script: |
+  const fs = require("fs");
 
-            const username = "OMI-KALIX";
+  const username = "OMI-KALIX";
 
-            const { data: repos } = await github.rest.repos.listForUser({
-              username,
-              sort: "updated",
-              per_page: 100
-            });
+  const { data: repos } = await github.rest.repos.listForUser({
+    username,
+    sort: "updated",
+    per_page: 100
+  });
 
-            const topRepos = repos
-              .filter(repo => !repo.fork)
-              .sort((a, b) => b.stargazers_count - a.stargazers_count)
-              .slice(0, 5);
+  const topRepos = repos
+    .filter(repo => !repo.fork)
+    .sort((a, b) => b.stargazers_count - a.stargazers_count)
+    .slice(0, 5);
 
-            const medals = ["🥇", "🥈", "🥉", "🔹", "🔹"];
+  const medals = ["🥇", "🥈", "🥉", "🔹", "🔹"];
 
-            const cards = topRepos.map((repo, index) => `
-<td width="50%" valign="top">
+  const cards = topRepos.map((repo, index) =>
+    '<td width="50%" valign="top">\n\n' +
+    `### ${medals[index]} [${repo.name}](${repo.html_url})\n` +
+    `⭐ ${repo.stargazers_count}\n\n` +
+    `${repo.description || "—"}\n\n` +
+    '</td>'
+  );
 
-### ${medals[index]} [${repo.name}](${repo.html_url})
-⭐ ${repo.stargazers_count}
+  let section =
+    '## ⭐ Top Repositories\n\n' +
+    '<div align="center">\n\n' +
+    '<table>\n';
 
-${repo.description || "—"}
+  for (let i = 0; i < cards.length; i += 2) {
+    section +=
+      '\n<tr>\n' +
+      cards[i] + '\n' +
+      (cards[i + 1] || '<td></td>') +
+      '\n</tr>\n';
+  }
 
-</td>`);
+  section += '\n</table>\n\n</div>\n';
 
-            let section = `
-## ⭐ Top Repositories
+  const readmePath = "README.md";
+  let readme = fs.readFileSync(readmePath, "utf8");
 
-<div align="center">
+  const start = "<!-- TOP_REPOS_START -->";
+  const end = "<!-- TOP_REPOS_END -->";
 
-<table>
-`;
+  if (!readme.includes(start) || !readme.includes(end)) {
+    throw new Error("TOP_REPOS markers not found in README.md");
+  }
 
-            for (let i = 0; i < cards.length; i += 2) {
-              section += `
-<tr>
-${cards[i]}
-${cards[i + 1] || "<td></td>"}
-</tr>
-`;
-            }
+  const replacement = `${start}\n${section}\n${end}`;
 
-            section += `
-</table>
+  readme = readme.replace(
+    new RegExp(`${start}[\\s\\S]*?${end}`),
+    replacement
+  );
 
-</div>
-`;
-
-            const readmePath = "README.md";
-            let readme = fs.readFileSync(readmePath, "utf8");
-
-            const start = "<!-- TOP_REPOS_START -->";
-            const end = "<!-- TOP_REPOS_END -->";
-
-            if (!readme.includes(start) || !readme.includes(end)) {
-              throw new Error("TOP_REPOS markers not found in README.md");
-            }
-
-            const replacement = `${start}
-
-${section}
-
-${end}`;
-
-            readme = readme.replace(
-              new RegExp(`${start}[\\s\\S]*?${end}`),
-              replacement
-            );
-
-            fs.writeFileSync(readmePath, readme);
+  fs.writeFileSync(readmePath, readme);
 
       - name: Commit and push changes
         run: |
