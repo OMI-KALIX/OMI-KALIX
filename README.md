@@ -131,23 +131,12 @@ A fully automated multi-agent AI system that creates LinkedIn content end to end
 <tr>
 <td width="50%" valign="top">
 
-### 🥉 [OMI-KALIX](https://github.com/OMI-KALIX/OMI-KALIX)
-⭐ 2
-
-—
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [n8n-rag-automation-ollama-pinecone](https://github.com/OMI-KALIX/n8n-rag-automation-ollama-pinecone)
+### 🥉 [n8n-rag-automation-ollama-pinecone](https://github.com/OMI-KALIX/n8n-rag-automation-ollama-pinecone)
 ⭐ 2
 
 End-to-end RAG automation built with n8n, Ollama (local LLMs), and Pinecone.  Automatically ingests documents, generates embeddings, stores vectors, and enables context-aware AI chat.
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🔹 [Skill-Bridge-AI-Resume-Analysis-Learning-Guidance-Bot](https://github.com/OMI-KALIX/Skill-Bridge-AI-Resume-Analysis-Learning-Guidance-Bot)
@@ -156,7 +145,25 @@ End-to-end RAG automation built with n8n, Ollama (local LLMs), and Pinecone.  Au
 SkillBridge is an AI-powered resume analysis and learning guidance bot that helps job seekers understand why their resume fails ATS screening and what to fix or learn next, without guessing.  It focuses on clarity over hype: What you have → What’s missing → What to improve → What to learn next
 
 </td>
-<td></td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [MindFlow-Visual-Tutor](https://github.com/OMI-KALIX/MindFlow-Visual-Tutor)
+⭐ 2
+
+MindFlow Visual Tutor is an AI-powered visual learning and Q&A bot that helps learners understand complex YouTube lectures by converting them into structured learning flows, visual diagrams, and interactive explanations.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [YT-DOWNLOADER](https://github.com/OMI-KALIX/YT-DOWNLOADER)
+⭐ 2
+
+Project is a web-based YouTube video downloader built with Flask and yt-dlp. It allows users to download videos or extract audio in various qualities through a sleek, responsive interface. Designed for simplicity and efficiency, it supports both MP4 and MP3 formats with customizable output options.
+
+</td>
 </tr>
 
 </table>
