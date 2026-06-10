@@ -13,9 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Update README with top repos
+      - name: Update README with top repositories
         uses: actions/github-script@v7
         with:
           script: |
@@ -23,19 +24,51 @@ jobs:
 
             const username = "OMI-KALIX";
 
-            const repos = await github.rest.repos.listForUser({
-              username: username,
-              sort: "stars",
-              direction: "desc",
-              per_page: 5
+            const { data: repos } = await github.rest.repos.listForUser({
+              username,
+              sort: "updated",
+              per_page: 100
             });
 
-            const list = repos.data
-              .reverse() // ASCENDING order
-              .map((r, i) =>
-                `${i + 1}. **${r.name}** ⭐ ${r.stargazers_count}\n   ${r.description || "No description"}`
-              )
-              .join("\n\n");
+            const topRepos = repos
+              .filter(repo => !repo.fork)
+              .sort((a, b) => b.stargazers_count - a.stargazers_count)
+              .slice(0, 5);
+
+            const medals = ["🥇", "🥈", "🥉", "🔹", "🔹"];
+
+            const cards = topRepos.map((repo, index) => `
+<td width="50%" valign="top">
+
+### ${medals[index]} [${repo.name}](${repo.html_url})
+⭐ ${repo.stargazers_count}
+
+${repo.description || "—"}
+
+</td>`);
+
+            let section = `
+## ⭐ Top Repositories
+
+<div align="center">
+
+<table>
+`;
+
+            for (let i = 0; i < cards.length; i += 2) {
+              section += `
+<tr>
+${cards[i]}
+${cards[i + 1] || "<td></td>"}
+</tr>
+`;
+            }
+
+            section += `
+</table>
+
+</div>
+`;
 
             const readmePath = "README.md";
             let readme = fs.readFileSync(readmePath, "utf8");
@@ -43,23 +76,30 @@ jobs:
             const start = "<!-- TOP_REPOS_START -->";
             const end = "<!-- TOP_REPOS_END -->";
 
-            const newContent = `${start}\n${list}\n${end}`;
-
             if (!readme.includes(start) || !readme.includes(end)) {
               throw new Error("TOP_REPOS markers not found in README.md");
             }
 
+            const replacement = `${start}
+
+${section}
+
+${end}`;
+
             readme = readme.replace(
               new RegExp(`${start}[\\s\\S]*?${end}`),
-              newContent
+              replacement
             );
 
             fs.writeFileSync(readmePath, readme);
 
       - name: Commit and push changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add README.md
-          git commit -m "Auto-update top repositories" || exit 0
+
+          git diff --staged --quiet || git commit -m "chore: update top repositories"
+
           git push
