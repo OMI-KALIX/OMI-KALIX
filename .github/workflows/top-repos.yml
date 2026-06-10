@@ -24,10 +24,10 @@ jobs:
               per_page: 100
             });
             const topRepos = repos
-              .filter(repo => !repo.fork)
+              .filter(repo => !repo.fork && repo.name.toLowerCase() !== username.toLowerCase())
               .sort((a, b) => b.stargazers_count - a.stargazers_count)
-              .slice(0, 5);
-            const medals = ["🥇", "🥈", "🥉", "🔹", "🔹"];
+              .slice(0, 6);
+            const medals = ["🥇", "🥈", "🥉", "🔹", "🔹", "🔹"];
             const cards = topRepos.map((repo, index) =>
               '<td width="50%" valign="top">\n\n' +
               `### ${medals[index]} [${repo.name}](${repo.html_url})\n` +
