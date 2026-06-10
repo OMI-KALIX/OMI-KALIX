@@ -103,11 +103,9 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 ---
 
 <!-- TOP_REPOS_START -->
-
 ## ⭐ Top Repositories
 
 Loading...
-
 <!-- TOP_REPOS_END -->
 
 
