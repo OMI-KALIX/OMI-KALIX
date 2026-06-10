@@ -102,61 +102,14 @@ I'm currently a student at **Finolex Academy of Management and Technology (FAMT)
 
 ---
 
+<!-- TOP_REPOS_START -->
+
 ## ⭐ Top Repositories
 
-<div align="center">
+Loading...
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<!-- TOP_REPOS_END -->
 
-### 🥇 [Multi-Agent-AI-Workflow-for-Content-Creation](https://github.com/OMI-KALIX/Multi-Agent-AI-Workflow-for-Content-Creation)
-⭐ 3 &nbsp;|&nbsp; AI · Automation · n8n
-
-A fully automated multi-agent AI system that creates LinkedIn content end to end. Specialized AI agents handle research, writing, formatting, and image creation—reducing hours of work to minutes while maintaining quality and consistency.
-
-</td>
-<td width="50%" valign="top">
-
-### 🥈 [ThinkLessX-Telegram-AI-Decision-Bot](https://github.com/OMI-KALIX/ThinkLessX-Telegram-AI-Decision-Bot)
-⭐ 1 &nbsp;|&nbsp; AI · Telegram · NLP
-
-ThinkLessX is an intent-aware Telegram AI bot designed to eliminate decision debt. Instead of overwhelming users with summaries or suggestions, it converts incoming messages, documents, and media into clear next actions.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🥉 [Skill-Bridge-AI-Resume-Analysis-Learning-Guidance-Bot](https://github.com/OMI-KALIX/Skill-Bridge-AI-Resume-Analysis-Learning-Guidance-Bot)
-⭐ 2 &nbsp;|&nbsp; AI · NLP · Career
-
-SkillBridge is an AI-powered resume analysis and learning guidance bot that helps job seekers understand why their resume fails ATS screening and what to fix or learn next, without guessing. It focuses on clarity over hype: What you have → What's missing → What to improve → What to learn next
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [MindFlow-Visual-Tutor](https://github.com/OMI-KALIX/MindFlow-Visual-Tutor)
-⭐ 2 &nbsp;|&nbsp; AI · Education · LLM
-
-MindFlow Visual Tutor is an AI-powered visual learning and Q&A bot that helps learners understand complex YouTube lectures by converting them into structured learning flows, visual diagrams, and interactive explanations.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 [Selenium1](https://github.com/OMI-KALIX/Selenium1)
-⭐ 0 &nbsp;|&nbsp; Automation · Testing
-
-—
-
-</td>
-<td></td>
-</tr>
-</table>
-
-</div>
 
 ---
 
